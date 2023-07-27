@@ -1,3 +1,6 @@
+# This role is now deprecatd
+
+
 sap-hana-hostagent
 ==================
 
